@@ -13,6 +13,5 @@ make react with out create-react-app
 - https://github.com/jantimon/html-webpack-plugin
 
 #### CSS Modules
- - https://github.com/css-modules/css-modules
- - https://css-tricks.com/css-modules-part-2-getting-started/
- - https://www.npmjs.com/package/style-loader
+ - https://blog.jakoblind.no/css-modules-webpack/
+ - https://github.com/css-modules/css-modules/issues/291
